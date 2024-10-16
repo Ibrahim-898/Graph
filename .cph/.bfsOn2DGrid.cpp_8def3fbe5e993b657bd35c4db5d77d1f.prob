@@ -1,0 +1,1 @@
+{"name":"Local: bfsOn2DGrid","url":"d:\\Graph\\bfsOn2DGrid.cpp","tests":[{"id":1725801089958,"input":"3 4 \n....\n....\n....\n0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Graph\\bfsOn2DGrid.cpp","group":"local","local":true}

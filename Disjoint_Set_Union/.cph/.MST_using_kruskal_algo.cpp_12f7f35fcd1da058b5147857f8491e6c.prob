@@ -1,0 +1,1 @@
+{"name":"Local: MST_using_kruskal_algo","url":"d:\\Disjoint_Set_Union\\MST_using_kruskal_algo.cpp","tests":[{"id":1726836505567,"input":"6 10\n0 1 5\n0 2 6\n0 3 8\n0 4 6\n0 5 10\n3 5 2\n5 1 4\n1 2 3\n2 4 8\n4 3 6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Disjoint_Set_Union\\MST_using_kruskal_algo.cpp","group":"local","local":true}
